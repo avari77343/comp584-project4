@@ -23,7 +23,7 @@ Open `index.html` in a browser. No build tools or dependencies are required.
 6. Wait for GitHub Pages to publish the site.
 7. Copy the published website URL and add it here:
 
-**GitHub Pages URL:** `PASTE-YOUR-PUBLISHED-URL-HERE`
+**GitHub Pages URL:** https://avari77343.github.io/comp584-project4 **
 
 Submit your GitHub repository URL in Canvas, as instructed.
 
