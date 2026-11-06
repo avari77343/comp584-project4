@@ -1,0 +1,13 @@
+Project 4 checklist
+- [x] Keep the supplied 400px wrapper width
+- [x] Separate calculator screen and button sections
+- [x] Use button elements for all keys
+- [x] Use ÷, ×, -, +, and = symbols
+- [x] Use CSS Grid for keypad layout
+- [x] Add hover and active pseudo-classes
+- [x] Implement arithmetic without eval()
+- [x] Add clear and backspace
+- [x] Add responsive sizing and keyboard support
+- [ ] Create GitHub repository and enable GitHub Pages
+- [ ] Paste the published Pages URL into README.md
+- [ ] Submit the repository URL in Canvas
